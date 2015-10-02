@@ -1,6 +1,6 @@
 # Proper-test
 Initial
-[awesomeicon](http://ecx.images-amazon.com/images/I/61aV%2BH5CoUL._UX385_.jpg)
+![awesomeicon](http://ecx.images-amazon.com/images/I/61aV%2BH5CoUL._UX385_.jpg)
 *All right belong to Nenad Janajc*
 
 ##Overview
